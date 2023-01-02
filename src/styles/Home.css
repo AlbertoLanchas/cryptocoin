@@ -1,0 +1,73 @@
+/* Estilos generales de la aplicación */
+body {
+  font-family: sans-serif;
+  color: #333;
+}
+
+/* Estilos para el encabezado de la aplicación */
+header {
+  background-color: #f5f5f5;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilos para el contenido principal de la aplicación */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilos para el título del precio del token */
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* Estilos para el subtítulo de la variación del precio */
+h2 {
+  font-size: 24px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Estilos para los botones de compra y venta */
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: #fff;
+  margin-right: 10px;
+}
+
+/* Estilos para el botón de compra */
+button.buy {
+  background-color: #2ecc71;
+}
+
+/* Estilos para el botón de venta */
+button.sell {
+  background-color: #e74c3c;
+}
+
+/* Estilos para el historial de transacciones */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para cada elemento del historial de transacciones */
+li {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* Estilos para el balance de la cartera del usuario */
+h3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
