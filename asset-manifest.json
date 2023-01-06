@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/cryptocoin/static/css/main.bbb81c12.css",
+    "main.js": "/cryptocoin/static/js/main.62ac45f2.js",
+    "static/media/background.jpg": "/cryptocoin/static/media/background.e283683c4251d34f6f00.jpg",
+    "static/media/news2.jpg": "/cryptocoin/static/media/news2.b169559f0637d0248f71.jpg",
+    "static/media/news1.jpg": "/cryptocoin/static/media/news1.c9e7f274d6b29057c28a.jpg",
+    "static/media/worker.jpg": "/cryptocoin/static/media/worker.8129a1066eb472e1389c.jpg",
+    "static/media/news3.jpg": "/cryptocoin/static/media/news3.d06364def6bbd72ff8d2.jpg",
+    "static/media/cryptologo.jpg": "/cryptocoin/static/media/cryptologo.ec6a2696c1e9be8d46a4.jpg",
+    "static/media/rocket.png": "/cryptocoin/static/media/rocket.586c98572cc9c0470b3c.png",
+    "static/media/profit1.svg": "/cryptocoin/static/media/profit1.51fe328469681e2dd389227f25fe6e41.svg",
+    "static/media/insurance1.svg": "/cryptocoin/static/media/insurance1.d6529e0ea3378e0ae4ed4674ddf6271e.svg",
+    "static/media/wallet1.svg": "/cryptocoin/static/media/wallet1.c4670eab8eb92ef0acf34b52619f4107.svg",
+    "static/media/discord2.svg": "/cryptocoin/static/media/discord2.4e00e15f7a125f1259e76932aaccec6c.svg",
+    "static/media/discord.svg": "/cryptocoin/static/media/discord.f499d163e5b8eb0af65229dc6e9efe43.svg",
+    "static/media/blog.svg": "/cryptocoin/static/media/blog.e354c036b7319067dcd81b463c6c4cbb.svg",
+    "static/media/youtube2.svg": "/cryptocoin/static/media/youtube2.ae5aa12c038b37e8932076d273245bc4.svg",
+    "static/media/twitter.svg": "/cryptocoin/static/media/twitter.edbe6c9773fe9219097577d136c880f0.svg",
+    "static/media/youtube.svg": "/cryptocoin/static/media/youtube.1f30f6d5e3cede87f331dc8737e077bd.svg",
+    "index.html": "/cryptocoin/index.html",
+    "static/media/menu.svg": "/cryptocoin/static/media/menu.3c6d26e95d49a925eac3ab47f232f842.svg",
+    "static/media/telegram.svg": "/cryptocoin/static/media/telegram.4907a7c8baadc09079742f3582dd478c.svg",
+    "static/media/paper.svg": "/cryptocoin/static/media/paper.787d56f59f2c311df111d1c34a58a7a6.svg",
+    "static/media/search.svg": "/cryptocoin/static/media/search.517f20f7067ddc194ae21d1680c6b6ec.svg",
+    "main.bbb81c12.css.map": "/cryptocoin/static/css/main.bbb81c12.css.map",
+    "main.62ac45f2.js.map": "/cryptocoin/static/js/main.62ac45f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb81c12.css",
+    "static/js/main.62ac45f2.js"
+  ]
+}
